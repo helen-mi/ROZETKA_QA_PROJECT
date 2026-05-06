@@ -7,7 +7,6 @@ Project scope:
 - Product page testing
 - Cart functionality testing
 - Filters testing
-
 Tools used:
 - Manual testing techniques
 Purpose:
