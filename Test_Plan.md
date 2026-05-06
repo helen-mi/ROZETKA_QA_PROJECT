@@ -1,14 +1,15 @@
-Project: Testing Rozetka e-commerce website
+Project: QA training project – e-commerce testing (Rozetka-like website)
 
 Goal:
-Test main functions of the website (search, product page, cart)
+Practice manual testing of e-commerce website functionality
 
-What will be tested:
-- Search products
+Scope:
+- Search functionality
 - Product page
-- Add to cart
+- Cart functionality
 - Filters
 
 Types of testing:
 - Functional testing
 - UI testing
+- Basic exploratory testing
