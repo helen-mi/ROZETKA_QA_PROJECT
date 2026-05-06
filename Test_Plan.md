@@ -1,5 +1,4 @@
 Project: QA training project – e-commerce testing (Rozetka-like website)
-
 Goal:
 Practice manual testing of e-commerce website functionality
 
