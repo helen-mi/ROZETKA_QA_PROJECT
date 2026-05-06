@@ -1,24 +1,15 @@
-QA Project: Rozetka Testing
+QA Training Project
 
-Description:
-This project is a manual QA practice of an e-commerce website.
+This project was created for learning manual QA testing.
 
-What was tested:
-- Search functionality
-- Product page
-- Add to cart
-- Cart functionality
-- Basic UI behavior
+Project scope:
+- Search functionality testing
+- Product page testing
+- Cart functionality testing
+- Filters testing
 
-Tools:
-- Manual testing
-- Test cases
-- Bug reports
+Tools used:
+- Manual testing techniques
 
-Artifacts:
-- Test plan
-- Test cases
-- Bug reports
-
-Goal:
-To demonstrate basic QA skills: test design, bug reporting, and functional testing.
+Purpose:
+To practice writing test cases, test plans and understanding expected system behavior.
